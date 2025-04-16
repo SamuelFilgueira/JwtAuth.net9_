@@ -1,0 +1,30 @@
+[
+  {
+    "ContainingType": "JwtAuthDotNet.Controllers.UserController",
+    "Method": "AddUser",
+    "RelativePath": "api/User/add-user",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "JwtAuthDotNet.Entities.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 500
+      }
+    ],
+    "EndpointName": "add-user"
+  }
+]
