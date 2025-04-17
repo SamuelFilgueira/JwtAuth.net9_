@@ -1,5 +1,33 @@
 [
   {
+    "ContainingType": "JwtAuthDotNet.Controllers.AuthenticationController",
+    "Method": "Login",
+    "RelativePath": "api/Authentication/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDto",
+        "Type": "JwtAuthDotNet.DTOs.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 500
+      }
+    ],
+    "EndpointName": "login"
+  },
+  {
     "ContainingType": "JwtAuthDotNet.Controllers.UserController",
     "Method": "AddUser",
     "RelativePath": "api/User/add-user",

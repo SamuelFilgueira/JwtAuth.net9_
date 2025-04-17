@@ -21,6 +21,6 @@ public class UserController : ControllerBase
     public ActionResult AddUser(User user)
     {
         _userService.Add(user);
-        return Ok("User inserted successfully");
+        return Ok(user);
     }
 }

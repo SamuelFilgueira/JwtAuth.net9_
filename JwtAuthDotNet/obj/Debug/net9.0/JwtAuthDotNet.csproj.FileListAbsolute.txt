@@ -162,3 +162,4 @@ C:\Users\samuel.figueira\Desktop\JwtAuthDotNet\JwtAuthDotNet\obj\Debug\net9.0\re
 C:\Users\samuel.figueira\Desktop\JwtAuthDotNet\JwtAuthDotNet\obj\Debug\net9.0\JwtAuthDotNet.pdb
 C:\Users\samuel.figueira\Desktop\JwtAuthDotNet\JwtAuthDotNet\obj\Debug\net9.0\JwtAuthDotNet.genruntimeconfig.cache
 C:\Users\samuel.figueira\Desktop\JwtAuthDotNet\JwtAuthDotNet\obj\Debug\net9.0\ref\JwtAuthDotNet.dll
+C:\Users\samuel.figueira\Desktop\JwtAuthDotNet\JwtAuthDotNet\obj\Debug\net9.0\JwtAuthDotNet.sourcelink.json

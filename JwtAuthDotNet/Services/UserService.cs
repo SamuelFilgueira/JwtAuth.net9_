@@ -18,7 +18,7 @@ namespace JwtAuthDotNet.Services
 
         public void Add(User user)
         {
-            _context.Users.Add(user);
+            _repository.Add(user);
         }
 
         public User? GetByUserName(string userName)

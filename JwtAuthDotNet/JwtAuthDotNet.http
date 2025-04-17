@@ -9,7 +9,8 @@ Accept: application/json
 POST {{JwtAuthDotNet_HostAddress}}/api/user/add-user
 Content-Type: application/json 
 {
-    "UserName": "Samuel",
-    "Password": "Samuel685@", 
-    "Role": "User"
+    "UserName": "teste1234",
+    "Password": "teste123",
+    "Role": "Manager"
 }
+
